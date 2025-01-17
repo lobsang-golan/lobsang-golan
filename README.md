@@ -3,6 +3,11 @@
 </p>
 
 #### 💻⚙️Actualmente trabajo como Desarrollador Java en Golan.
+
+#### Mis datos de contacto
+📧Email: lobsang@golan.cl | lobsangbarrigatapia@gmail.com
+
+📞Teléfono: <a href="MDAxMDEwMTEgMDAxMDAwMDAgMDAxMTAxMDEgMDAxMTAxMTAgMDAxMDAwMDAgMDAxMTEwMDEgMDAxMDAwMDAgMDAxMTAwMTEgMDAxMTAwMTEgMDAxMTEwMDEgMDAxMTAwMTEgMDAxMDAwMDAgMDAxMTAxMTAgMDAxMTAwMTAgMDAxMTAxMDEgMDAxMTAwMDE=">Figure it out! :D</a>
 <!--
 **lobsang-golan/lobsang-golan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
