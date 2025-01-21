@@ -2,7 +2,7 @@
 <h1 align="center">💬Hola, ¿cómo te va? Soy Lobsang 👨🏻‍💻</h1> 
 </p>
 
-#### 💻⚙️Actualmente trabajo como Desarrollador Java en Golan.
+#### 💻⚙️Actualmente trabajo como Desarrollador de Software en Golan.
 
 #### Mis datos de contacto
 📧Email: lobsang@golan.cl | lobsangbarrigatapia@gmail.com
