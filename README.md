@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">💬Hola, ¿cómo te va? Soy Lobsang 👨🏻‍💻</h1> 
+<h1 align="center">💬Tengo sueño👨🏻‍💻</h1> 
 </p>
 
 #### 💻⚙️Actualmente trabajo como Desarrollador de Software en Golan.
